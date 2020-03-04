@@ -1,6 +1,6 @@
 export const PokeService = {
 	get url(){
-		return '//dev.treinaweb.com.br/pokeapi/'
+		return 'https://dev.treinaweb.com.br/pokeapi/pokedex/1'
 	},
 	list: [],
 	listAll: function(){
