@@ -9,10 +9,11 @@ pertencente a formação [Desenvolvedor Front-end Pleno](https://www.treinaweb.c
 - CSS3
 - Javascript
 
+# Screenshot
 <html lang="pt-br">
 <head>
 </head>
 <body>
-	
+	<img src="https://github.com/PauloAlves8039/Projeto-Pokedex-ES6/blob/master/assets/image/screenshot.png" />
 </body>
 </html>
